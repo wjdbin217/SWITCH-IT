@@ -1,0 +1,3 @@
+rep "Artistic_Software@Team_Arteq@cloud"
+  path "/"
+    smartbranch "/main"
